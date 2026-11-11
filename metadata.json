@@ -1,0 +1,5 @@
+{
+  "name": "KAINAR COLLEGE ҚАУІПСІЗДІК ПОРТАЛЫ",
+  "description": "Қайнар колледжінің зияткерлік қауіпсіздік порталы",
+  "requestFramePermissions": ["camera"]
+}
